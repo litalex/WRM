@@ -1,7 +1,0 @@
-AddDefaultCharset UTF-8
-
-Order Deny,Allow
-Deny from 62.109.22.242
-Deny from 202.191.121.230
-Deny from 202.144.144.163
-Deny from 198.154.63.131
